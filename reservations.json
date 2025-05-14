@@ -1,0 +1,29 @@
+[
+    {
+        "flightNumber": "AA123",
+        "passengerID": "PID001",
+        "paymentDetails": "****-****-****-1234",
+        "paymentMethod": "Credit Card",
+        "reservationID": "RES5338",
+        "seatNumber": "17A",
+        "totalCost": 300.0
+    },
+    {
+        "flightNumber": "AB880",
+        "passengerID": "PID50",
+        "paymentDetails": "****-****-****-1234",
+        "paymentMethod": "PayPal",
+        "reservationID": "RES1663",
+        "seatNumber": "24A",
+        "totalCost": 750.0
+    },
+    {
+        "flightNumber": "AB880",
+        "passengerID": "PID149",
+        "paymentDetails": "****-****-****-1234",
+        "paymentMethod": "Credit Card",
+        "reservationID": "RES1476",
+        "seatNumber": "26A",
+        "totalCost": 450.0
+    }
+]

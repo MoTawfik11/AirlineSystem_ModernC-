@@ -1,0 +1,32 @@
+[
+    {
+        "aircraftType": "Boeing 737",
+        "arrivalDateTime": "2023-12-15 11:45",
+        "departureDateTime": "2023-12-15 08:30",
+        "destination": "Los Angeles (LAX)",
+        "flightNumber": "AA123",
+        "origin": "New York (JFK)",
+        "status": "Scheduled",
+        "totalSeats": 180
+    },
+    {
+        "aircraftType": "nuun415",
+        "arrivalDateTime": "2025-05-12 13:30",
+        "departureDateTime": "2025-05-11 11:49",
+        "destination": "Alex",
+        "flightNumber": "AA145",
+        "origin": "Cairo",
+        "status": "Scheduled",
+        "totalSeats": 170
+    },
+    {
+        "aircraftType": "QWXTU 8701",
+        "arrivalDateTime": "2025-07-10 15:30",
+        "departureDateTime": "2025-07-09 11:59",
+        "destination": "Paris (Fr)",
+        "flightNumber": "AB880",
+        "origin": "London (UK)",
+        "status": "Scheduled",
+        "totalSeats": 350
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "aircraftID": "A005",
+        "capacity": 250,
+        "manufacturer": "Boeing",
+        "model": "Boeing 757",
+        "status": "Available"
+    }
+]
