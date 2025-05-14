@@ -70,25 +70,26 @@ mkdir build && cd build
 cmake ..
 make
 ./airline_system
+```
 ---
 
-📌 Notes
+##  📌 Notes
 Ensure your JSON data files exist in the data/ directory before running.
 
 Smart pointers (std::shared_ptr, std::unique_ptr) are used to manage memory automatically.
 
 Multithreading is implemented in [XYZ section] for tasks like simultaneous booking or data sync (if applicable).
 
-📷 Demo
+##  📷 Demo
 (Insert screenshots or terminal session gifs here using asciinema or .gif)
 
-🤝 Contributions
+##  🤝 Contributions
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
+##  📄 License
 This project is open-source and available under the MIT License.
 
-👨‍💻 Author
+##  👨‍💻 Author
 Mohamed Tawfik
 Mechatronics Engineer | C++ Developer | Robotics & AI Enthusiast
 
