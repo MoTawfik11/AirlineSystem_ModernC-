@@ -45,10 +45,11 @@ airline-reservation-system/
 │ ├── Flight.hpp
 │ └── Booking.hpp
 │
-├── data/ # JSON data persistence
-│ ├── passengers.json
-│ ├── flights.json
-│ └── bookings.json
+├── AirlineSystem.pro
+├── passengers.json
+├── flights.json
+├── bookings.json
+├── bookings.json
 
 
 ---
